@@ -77,8 +77,6 @@ C# and UnityScript files are compiled into the Assembly-CSharp.dll and Assembly-
 
 DDLs can be decompiled using [ILSpy](http://ilspy.net/) or [dnSpy](https://github.com/0xd4d/dnSpy) which allow modifying and recompiling assembly files.
 
-<a href="https://github.com/xcsh/Unity-game-hacking/wiki/images/dnspy.png"><img src="https://github.com/xcsh/Unity-game-hacking/wiki/images/dnspy.png" width="450"></a>
-
 ## Extracting assets
 
 Assets are stored in the .assets .resS files. Content of these files can be unpacked with one of these tools :
