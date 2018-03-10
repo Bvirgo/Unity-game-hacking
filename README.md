@@ -87,7 +87,7 @@ Tool | Description
 [DisUnity](https://github.com/ata4/disunity) | Command-line tool in java that can extract raw data.
 [Unity Assets Bundle Extractor](https://7daystodie.com/forums/showthread.php?22675-Unity-Assets-Bundle-Extractor) | UABE is a tool that allow modification of assets file and extraction of assets in usable formats (png/tga for textures, obj for meshes).
 [Unity Studio](https://github.com/RaduMC/UnityStudio) | A tool for exploring, extracting and exporting assets from Unity games and apps.
-[QuickBMS](http://aluigi.altervista.org/quickbms.htm) with [this script](http://aluigi.altervista.org/bms/unity.bms) |
+[QuickBMS](http://aluigi.altervista.org/quickbms.htm) with [this script](http://aluigi.altervista.org/bms/unity.bms) or [this one for webplayer](http://aluigi.org/papers/bms/unity3d_webplayer.bms) |
 
 #### DDS files :
 
