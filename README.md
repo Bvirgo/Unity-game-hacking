@@ -1,4 +1,4 @@
-This is a small guide for extracting or modifying assets or code from games made in unity engine
+This is a small guide for extracting or modifying assets or code from games made in unity engine, feel free to contribute.
 
 1. [Unity game folder structure](#unity-game-folder-structure)
 2. [Extracting and editing code](#extracting-and-editing-code)
