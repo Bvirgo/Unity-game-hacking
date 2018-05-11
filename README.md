@@ -79,7 +79,7 @@ DDLs can be decompiled using [ILSpy](http://ilspy.net/) or [dnSpy](https://githu
 
 ## Extracting assets
 
-Assets are stored in the .assets .resS files. Content of these files can be unpacked with one of these tools :
+Assets are stored in the .assets and .resS files. Content of these files can be unpacked with one of these tools :
 
 Tool | Description
 --- | ---
