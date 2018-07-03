@@ -3,6 +3,7 @@ This is a small guide for extracting or modifying assets or code from games made
 1. [Unity game folder structure](#unity-game-folder-structure)
 2. [Extracting and editing code](#extracting-and-editing-code)
 3. [Extracting assets](#extracting-assets)
+4. [Hacking memory](#hacking-memory)
 
 ## Unity game folder structure
 
@@ -96,3 +97,7 @@ The [DDS](https://en.wikipedia.org/wiki/DirectDraw_Surface) files can be opened/
 #### Another way of extracting meshes and textures :
 
 Use [3D Ripper DX](http://www.deep-shadows.com/hax/3DRipperDX.htm) (doesn't support 64 bits binaries) or [Ninja Ripper](http://cgig.ru/en/2012/10/ho-to-use-ninja-ripper/).
+
+## Hacking memory
+
+Cheat engine have a feature called [Dissect mono](https://wiki.cheatengine.org/index.php?title=Mono) that can help hacking game's memory. This [video series](https://www.youtube.com/playlist?list=PLNffuWEygffbue0tvx7IusDmfAthqmgS7) about using cheat engine is really useful.
