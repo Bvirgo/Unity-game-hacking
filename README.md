@@ -1,4 +1,4 @@
-This is a small guide for extracting or modifying assets or code from games made in unity engine, feel free to contribute.
+This is a small guide for extracting and modifying assets or code from games made with the Unity engine. Feel free to contribute.
 
 1. [Unity game folder structure](#unity-game-folder-structure)
 2. [Extracting and editing code](#extracting-and-editing-code)
@@ -6,8 +6,6 @@ This is a small guide for extracting or modifying assets or code from games made
 4. [Hacking memory](#hacking-memory)
 
 ## Unity game folder structure
-
-The folder structure of a game built with Unity 5 (Windows target) :
 
 ```
 │   *.exe
@@ -76,7 +74,7 @@ Assembly-UnityScript.dll | DLL file containing compiled UnityScript files
 
 C# and UnityScript files are compiled into the Assembly-CSharp.dll and Assembly-UnityScript.dll DLLs respectively, which can be found inside the Managed folder.
 
-DDLs can be decompiled using [ILSpy](http://ilspy.net/) or [dnSpy](https://github.com/0xd4d/dnSpy) which allow modifying and recompiling assembly files.
+DLLs can be decompiled using [ILSpy](http://ilspy.net/) or [dnSpy](https://github.com/0xd4d/dnSpy) which allow modifying and recompiling assembly files.
 
 ## Extracting assets
 
